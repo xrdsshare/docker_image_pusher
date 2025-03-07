@@ -3,3 +3,4 @@ ubuntu:22.04
 centos:7
 keking/kkfileview:latest
 filebrowser/filebrowser:latest
+openresty/openresty:alpine
