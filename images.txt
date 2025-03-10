@@ -1,1 +1,1 @@
-node:18-alpine
+node:22-alpine
