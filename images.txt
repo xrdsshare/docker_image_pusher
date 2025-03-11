@@ -1,1 +1,1 @@
-node:18-bookworm
+ubuntu:22.04
