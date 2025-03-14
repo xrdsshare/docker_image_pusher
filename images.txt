@@ -1,1 +1,2 @@
-keking/kkfileview-base:4.4.0
+joxit/docker-registry-ui:latest
+registry:2
