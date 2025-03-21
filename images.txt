@@ -1,2 +1,1 @@
-kkview/kkview:4.3.0
-kkview/kkview:4.4.0
+ubuntu
