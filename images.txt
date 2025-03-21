@@ -1,2 +1,2 @@
-joxit/docker-registry-ui:latest
-registry:2
+kkview:4.3.0
+kkview:4.4.0
