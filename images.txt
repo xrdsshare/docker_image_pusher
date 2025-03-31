@@ -1,2 +1,2 @@
-mysql:8.0
+mysql:5.7.28
 python:3.9-slim
