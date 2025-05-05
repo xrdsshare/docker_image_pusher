@@ -1,1 +1,1 @@
-centos:7.9.2009
+aler9/rtsp-simple-server
