@@ -1,1 +1,1 @@
-ullaakut/rtspatt
+jrottenberg/ffmpeg:5.1-alpine
