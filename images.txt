@@ -1,1 +1,1 @@
-quay.io/ceph/daemon:v7.0.3-stable-7.0-quincy
+ceph/daemon:v7.0.3-stable-7.0-quincy
