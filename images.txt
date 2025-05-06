@@ -1,1 +1,1 @@
-ceph/daemon:v7.0.3-stable-7.0-quincy
+ceph/ceph:v17.2.6
