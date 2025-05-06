@@ -1,1 +1,1 @@
-jrottenberg/ffmpeg:5.1-alpine
+ceph/daemon-base:latest
