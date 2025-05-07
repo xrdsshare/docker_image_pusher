@@ -1,1 +1,1 @@
-ceph/daemon:v6.0.0
+ceph/daemon:v17.2.6
