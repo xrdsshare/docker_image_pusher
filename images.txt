@@ -1,1 +1,1 @@
-aler9/rtsp-simple-server
+jrottenberg/ffmpeg:5.1-ubuntu
