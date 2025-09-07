@@ -1,1 +1,1 @@
-homeassistant/home-assistant:stable
+homeassistant/armv7-home-assistant:stable
