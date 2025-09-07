@@ -1,1 +1,1 @@
-ceph/daemon:latest-nautilus
+homeassistant/home-assistant:stable
