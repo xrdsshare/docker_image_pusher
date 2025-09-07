@@ -1,1 +1,1 @@
-ghcr.io/homeassistant/armv7-home-assistant:stable
+lscr.io/linuxserver/homeassistant:latest
