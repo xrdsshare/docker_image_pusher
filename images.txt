@@ -1,1 +1,2 @@
-openproject/openproject:16
+postgres:12
+openproject/community:latest
