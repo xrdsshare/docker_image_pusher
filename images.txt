@@ -1,2 +1,2 @@
-postgres:12
+postgres:latest
 openproject/community:latest
