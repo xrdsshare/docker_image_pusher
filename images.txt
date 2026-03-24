@@ -1,1 +1,1 @@
-postgres:13
+ghcr.io/ggerganov/llama.cpp:server-cuda
