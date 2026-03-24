@@ -1,1 +1,1 @@
-abetlen/llama-cpp-python-server:latest
+openclaw/openclaw:latest
