@@ -1,1 +1,1 @@
-trueosiris/llama-cpp-cuda:latest
+abetlen/llama-cpp-python:latest-cuda
