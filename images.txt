@@ -1,1 +1,1 @@
-openclaw/openclaw:latest
+openclaw:latest
