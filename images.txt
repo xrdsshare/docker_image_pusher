@@ -1,1 +1,1 @@
-trueosiris/llama-cpp-cuda:latest
+ubuntu-latest
