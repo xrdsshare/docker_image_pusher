@@ -1,1 +1,1 @@
-ubuntu:latest
+docker.io/lewangdev/openclaw:latest
