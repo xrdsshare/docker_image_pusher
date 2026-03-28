@@ -1,1 +1,1 @@
-ghcr.io/sasha0552/vllm:v0.10.0
+ghcr.io/sasha0552/vllm:v0.9.1
