@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+ghcr.io/sasha0552/vllm:v0.10.0
