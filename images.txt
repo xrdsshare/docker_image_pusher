@@ -1,1 +1,1 @@
-ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:server-cuda11.8-b7751
