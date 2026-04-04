@@ -1,1 +1,1 @@
-localai/localai:latest-gpu-nvidia-cuda-13
+localai/localai:latest-gpu-nvidia-cuda-12
