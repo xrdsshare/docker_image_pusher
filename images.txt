@@ -1,1 +1,1 @@
-localai/localai:latest-gpu-nvidia-cuda-11
+ollama/ollama:0.20.3
