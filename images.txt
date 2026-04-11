@@ -1,1 +1,1 @@
-ghcr.io/katelyatv/katelyatv:latest
+ghcr.io/katelya77/katelyatv:latest
