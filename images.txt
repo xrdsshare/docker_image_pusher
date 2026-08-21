@@ -1,1 +1,2 @@
-ghcr.io/katelya77/katelyatv:latest
+postgres:16-alpine
+ghcr.io/berriai/litellm:main
