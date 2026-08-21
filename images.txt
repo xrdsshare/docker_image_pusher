@@ -1,2 +1,1 @@
-postgres:16-alpine
-ghcr.io/berriai/litellm:main
+ghcr.io/berriai/litellm:main-stable
